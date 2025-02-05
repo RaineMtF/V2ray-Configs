@@ -1,0 +1,30 @@
+name: Force Cleanup
+
+on:
+  workflow_dispatch
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    name: Force Cleanup
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Config Git
+      run: |
+        git config user.name github-actions[bot]
+        git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+
+    - name: Commit and Push files
+      run: |
+        git checkout --orphan temp_branch
+        git add .
+        git commit -m "Force Cleanup"
+        git branch -D main
+        git branch -m main
+        git push --force origin main
