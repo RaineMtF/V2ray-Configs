@@ -4,6 +4,9 @@
 #support-url: https://github.com/RaineMtF/V2ray-Configs
 #profile-web-page-url: https://github.com/RaineMtF/V2ray-Configs
 
+vless://1fc2fd97-0e24-4eaf-fdb8-c18e55abe718@149.28.192.216:8080?path=%2F&security=none&encryption=none&type=ws#telegram
+vless://2ed74ed2-46f3-4199-f362-1c288bccacfe@208.72.153.34:8080?path=%2F&security=none&encryption=none&type=ws#telegram
+vless://46bce027-2f79-4e5f-fc73-ca8fe3dd4d18@45.77.198.120:8080?path=%2F&security=none&encryption=none&type=ws#telegram
 vless://5349c900-a967-49f5-d421-d237449e2f67@208.83.238.198:8080?path=%2F&security=none&encryption=none&type=ws#telegram
 vless://5e981756-0098-4c87-8706-a1e713b652c2@jermaine.ns.cloudflare.com:443?encryption=none&security=tls&sni=i2ct2g.a27app.com&type=ws&alpn=http/1.1&host=i2ct2g.a27app.com&path=/wss#telegram
 vless://72942909-1346-4865-d90a-c57f3bee9d28@45.63.39.85:8080?path=%2F&security=none&encryption=none&type=ws#telegram
