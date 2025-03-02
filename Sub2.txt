@@ -4,7 +4,6 @@
 #support-url: https://github.com/RaineMtF/V2ray-Configs
 #profile-web-page-url: https://github.com/RaineMtF/V2ray-Configs
 
-vless://05c40419-c334-4cf4-819b-515bd654e2a0@join.vmessorg.fastly80-3.hosting-ip.com:80?security=&type=ws&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed%3D2480&host=JoinBedee--vmessorg--vmessorg.ir&encryption=none#[🇨🇦]t.me/ConfigsHub`
 vless://a142faf1-7898-450f-bea6-5e3dbe20fdb5@dd2.atelienaderr.ir:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=dd2.atelienaderr.ir&fp=chrome&type=ws&sni=dd2.atelienaderr.ir#[🇩🇪]t.me/ConfigsHub`
 vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@104.21.96.1:443?path=%2F3um9NK8jwisKz35E%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=photographipictureai.ir&fp=randomized&type=ws&sni=pHOTOgrApHipiCTureaI.IR#[🇺🇸]t.me/ConfigsHub`
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.75.172:80?encryption=none&security=none&type=ws&host=redw.pooriam.ir&path=%2F#[🇨🇦]t.me/ConfigsHub`
