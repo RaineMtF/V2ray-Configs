@@ -4,8 +4,6 @@
 #support-url: https://github.com/RaineMtF/V2ray-Configs
 #profile-web-page-url: https://github.com/RaineMtF/V2ray-Configs
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.61.240.45:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#[🇨🇦]t.me/ConfigsHub`
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FLwW5jwrnymnOdqki%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#[🇨🇦]t.me/ConfigsHub`
 vless://29cff9ce-9edf-4e34-82ed-4a01d63eafd5@209.38.113.248:1286?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub`
 vless://a35017af-d228-44bd-885c-e5951ce09df6@104.24.197.20:80?path=Mmdv2rayng-V2rayngmmd-telegram-mmd_v2rayng%3Fed%3D80&security=none&encryption=none&host=dl6.heykakenakhshanemvaberanakhshanemkhadijeomanigakobraoaminfatema.com&type=ws#[🇨🇦]t.me/ConfigsHub`
