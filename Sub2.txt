@@ -4,6 +4,8 @@
 #support-url: https://github.com/RaineMtF/V2ray-Configs
 #profile-web-page-url: https://github.com/RaineMtF/V2ray-Configs
 
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.161-1090
+trojan://utF6JLQd2x@141.227.128.69:1935?security=tls&sni=x1es-ovh.devefun.net#%F0%9F%87%AA%F0%9F%87%B8ES-141.227.128.69-1082
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#%F0%9F%87%B9%F0%9F%87%B7TR-185.123.101.241-1100
 trojan://OLq0FfOlp7@141.227.160.88:1935?security=tls&sni=x1-sweden-ovh-v2.devefun.net#%F0%9F%87%AB%F0%9F%87%B7FR-141.227.160.88-1079
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL-109.201.152.181-1017
