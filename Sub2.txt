@@ -4,7 +4,6 @@
 #support-url: https://github.com/RaineMtF/V2ray-Configs
 #profile-web-page-url: https://github.com/RaineMtF/V2ray-Configs
 
-trojan://klZqKyxq0H@57.128.165.173:1935?security=tls&sni=x1-england-ovh-v2.devefun.net#%F0%9F%87%AB%F0%9F%87%B7FR-57.128.165.173-1090
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.161-1085
 trojan://telegram-id-privatevpns@13.60.151.163:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.60.151.163-6678
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.163:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.163-1075
