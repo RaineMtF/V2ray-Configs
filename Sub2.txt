@@ -4,7 +4,6 @@
 #support-url: https://github.com/RaineMtF/V2ray-Configs
 #profile-web-page-url: https://github.com/RaineMtF/V2ray-Configs
 
-ss://c9619867-f4a0-4f2c-a358-3d22db64dabc@abby.ns.cloudflare.com:443?path=%2Fwss&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=fari25.clodmolt3.com&fp=chrome&type=ws&sni=fari25.clodmolt3.com#telegram
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638816155369852160.athens-shledrc-acbs.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#telegram
 ss://10d9df89-9a20-4110-9711-bca119490ee9@104.21.16.1:80?type=ws&host=masaleini.mahsaamini.dpdns.org&path=%2FTM%40AZAFBAYJAB1#[🇨🇦]t.me/ConfigsHub`
 ss://a0b199ec-09c7-4622-8bb6-29abc38ac5ef@104.26.14.85:80?security=none&type=ws&host=AdORiNG-POpULatIOn.OnEeAt.cO.&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
